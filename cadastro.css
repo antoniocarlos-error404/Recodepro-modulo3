@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+}
+body{
+    margin: 20px;
+}
+
+form.row.g-3{
+    padding-top: 20px;
+    height: 20px;
+}
+.navbar.bg-body {
+    background-color:rgb(117, 95, 95);
+}

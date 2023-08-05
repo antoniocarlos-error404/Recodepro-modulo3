@@ -1,0 +1,24 @@
+*{
+    margin:10px ;
+    padding:0;
+    box-sizing: border-box;
+  }
+
+
+  .container-4{
+    max-width:100%;
+  }
+  .row{
+      justify-content:space-evenly;
+      padding-top: 30px;
+
+  }
+   .d-flex{
+    
+       justify-content:flex-end;
+       justify-items:;
+
+  }
+h5{
+    justify-content:flex-start;
+}
