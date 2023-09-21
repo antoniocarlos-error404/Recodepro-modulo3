@@ -1,0 +1,22 @@
+section.container.container-4 {
+    display: flex;
+    justify-content: center;
+    
+}
+
+.imagem-container {
+    display: flex;
+    justify-content:center ;
+    margin-bottom: 20px;
+    padding-top: 60px;
+    ;
+}
+p.h2{
+ 
+  
+}
+#text{
+    flex-direction: column;
+    margin: 30px;
+    width: 10px;
+}
