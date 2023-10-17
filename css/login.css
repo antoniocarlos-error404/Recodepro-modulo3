@@ -48,9 +48,13 @@ main{
 
 
 .container-fluid-2{
-    padding-top: 200px;
+   
+ 
 
   
+}
+#logouser{
+    padding-top: 150px;
 }
 
 form{

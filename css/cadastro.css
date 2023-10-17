@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+}
+body{
+    margin: 20px;
+}
+
+form.row.g-3{
+    padding-top: 20px;
+    height: 20px;
+}
+.navbar.bg-body {
+    background-color:rgb(117, 95, 95);
+}
+
+button.navbar-toggler{
+    justify-content:flex-start ;
+    height: 70px;
+    width: 70px; 
+    border-radius: 10px;
+    border: 3px solid rgba(var(--bs-emphasis-color-rgb), 20); /* Bordas mais grossas e com cor de ênfase do Bootstrap */
+    box-shadow: 0 4px 6px rgba(243, 243, 243, 0.37); /* Adicionar sombra */
+    }

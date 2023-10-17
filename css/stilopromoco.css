@@ -1,0 +1,43 @@
+*{
+    margin:0px ;
+    padding:0;
+    box-sizing: border-box;
+  }
+
+
+  .container-4{
+    max-width:100%;
+  }
+  .row{
+      justify-content:space-evenly;
+      padding-top: 10px;
+
+  }
+   .d-flex{
+    
+       justify-content:flex-end;
+       justify-items:;
+
+  }
+h5{
+    justify-content:flex-start;
+}
+.navbar{
+  justify-content:flex-start ; /* navbar */
+  height: 100px;
+  flex-direction: row;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.8);
+}
+.container-fluid{
+  
+}
+
+
+button.navbar-toggler{
+  justify-content:flex-start ;
+  height: 70px;
+  width: 70px; 
+  border-radius: 10px;
+  border: 3px solid rgba(var(--bs-emphasis-color-rgb), 20); /* Bordas mais grossas e com cor de ênfase do Bootstrap */
+  box-shadow: 0 4px 6px rgba(243, 243, 243, 0.37); /* Adicionar sombra */
+  }
